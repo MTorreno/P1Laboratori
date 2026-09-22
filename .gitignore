@@ -1,0 +1,9 @@
+# Ignorar executables i binaris 
+*.exe
+*.o
+*.out
+
+# Ignorar fichers de configuració d'editors (brossa)
+.vscode/
+.idea/
+.DS_Store
